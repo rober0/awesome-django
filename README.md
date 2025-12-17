@@ -12,7 +12,7 @@ A curated list of Django packages grouped by category, with descriptions in Engl
 | [**Django REST Framework**](https://github.com/encode/django-rest-framework) | The standard toolkit for building Web APIs in Django. | O kit de ferramentas padrão para construção de Web APIs em Django. |
 | [**Django Ninja**](https://github.com/vitalik/django-ninja) | Fast, modern API framework based on Pydantic and type hints (like FastAPI). | Framework de API rápido e moderno baseado em Pydantic e type hints (similar ao FastAPI). |
 | [**Graphene Django**](https://github.com/graphql-python/graphene-django) | Integrate GraphQL into your Django project. | Integra GraphQL ao seu projeto Django. |
-| [**DRF YASG**](https://github.com/axnsan12/drf-yasg) | Automated generation of Real Swagger/OpenAPI 2.0 schemas for DRF. | Geração automatizada de esquemas Swagger/OpenAPI 2.0 reais para o DRF. |
+| [**drf-spectacular**](https://github.com/tfranzel/drf-spectacular) | Sane and flexible OpenAPI 3 schema generation for DRF. | Geração de esquema OpenAPI 3 sensata e flexível para o DRF. |
 | [**Django CORS Headers**](https://github.com/adamchainz/django-cors-headers) | App for handling the server headers required for Cross-Origin Resource Sharing (CORS). | App para lidar com os cabeçalhos de servidor necessários para Compartilhamento de Recursos de Origem Cruzada (CORS). |
 | [**DRF GIS**](https://github.com/openwisp/django-rest-framework-gis) | Geographic add-ons for Django REST Framework. | Complementos geográficos para o Django REST Framework. |
 
