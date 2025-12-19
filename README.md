@@ -27,7 +27,6 @@ A curated list of Django packages grouped by category, with descriptions in Engl
 | [**Social App Django**](https://github.com/python-social-auth/social-app-django) | Python Social Auth - Support for OAuth (Google, Facebook, etc). | Python Social Auth - Suporte para OAuth (Google, Facebook, etc). |
 | [**Django Axes**](https://github.com/jazzband/django-axes/) | Security middleware to monitor and block brute force attacks. | Middleware de segurança para monitorar e bloquear ataques de força bruta. |
 | [**Django Recaptcha**](https://github.com/django-recaptcha/django-recaptcha) | Integration of Google ReCAPTCHA for Django forms. | Integração do Google ReCAPTCHA para formulários Django. |
-| [**DefectDojo**](https://github.com/DefectDojo/django-DefectDojo) | OpenSource application focused on vulnerability management. | Aplicação OpenSource focada em gerenciamento de vulnerabilidades. |
 
 ## 🛠 Admin Interface & Tools / Interface Admin e Ferramentas
 
@@ -105,7 +104,6 @@ A curated list of Django packages grouped by category, with descriptions in Engl
 | Package / Pacote | Description (EN) | Descrição (PT) |
 | :--- | :--- | :--- |
 | [**Django Payments**](https://github.com/jazzband/django-payments) | A universal payment handling app (supports multiple gateways). | Um app universal de tratamento de pagamentos (suporta múltiplos gateways). |
-| [**dj-stripe**](https://github.com/dj-stripe/dj-stripe/) | Django + Stripe integration (syncs Stripe data to your DB). | Integração Django + Stripe (sincroniza dados do Stripe com seu banco). |
 | [**Django Push Notifications**](https://github.com/jazzband/django-push-notifications) | Send push notifications to mobile devices (FCM, APNS). | Envie notificações push para dispositivos móveis (FCM, APNS). |
 
 ## ⚡ Async & Image Processing / Async e Processamento de Imagem
