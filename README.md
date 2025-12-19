@@ -11,7 +11,6 @@ A curated list of Django packages grouped by category, with descriptions in Engl
 | :--- | :--- | :--- |
 | [**Django REST Framework**](https://github.com/encode/django-rest-framework) | The standard toolkit for building Web APIs in Django. | O kit de ferramentas padrão para construção de Web APIs em Django. |
 | [**Django Ninja**](https://github.com/vitalik/django-ninja) | Fast, modern API framework based on Pydantic and type hints (like FastAPI). | Framework de API rápido e moderno baseado em Pydantic e type hints (similar ao FastAPI). |
-| [**Strawberry**](https://github.com/strawberry-graphql/strawberry) | A modern GraphQL library based on Python type hints (dataclasses). | Uma biblioteca GraphQL moderna baseada em type hints do Python (dataclasses). |
 | [**Graphene Django**](https://github.com/graphql-python/graphene-django) | Integrate GraphQL into your Django project. | Integra GraphQL ao seu projeto Django. |
 | [**drf-spectacular**](https://github.com/tfranzel/drf-spectacular) | Sane and flexible OpenAPI 3 schema generation for DRF. | Geração de esquema OpenAPI 3 sensata e flexível para o DRF. |
 | [**Django CORS Headers**](https://github.com/adamchainz/django-cors-headers) | App for handling the server headers required for Cross-Origin Resource Sharing (CORS). | App para lidar com os cabeçalhos de servidor necessários para Compartilhamento de Recursos de Origem Cruzada (CORS). |
@@ -49,7 +48,6 @@ A curated list of Django packages grouped by category, with descriptions in Engl
 | [**Django CMS**](https://github.com/django-cms/django-cms) | Enterprise-ready Content Management System. | Sistema de Gerenciamento de Conteúdo pronto para nível empresarial. |
 | [**Django Filer**](https://github.com/django-cms/django-filer) | Advanced file management system for Django/Django CMS. | Sistema avançado de gerenciamento de arquivos para Django/Django CMS. |
 | [**Django Markdownx**](https://github.com/neutronX/django-markdownx) | Comprehensive Markdown plugin with live preview and image uploads. | Plugin Markdown abrangente com pré-visualização ao vivo e upload de imagens. |
-| [**Django Downloadview**](https://github.com/jazzband/django-downloadview) | Serve files with Django (managing permissions, etc). | Servir arquivos com Django (gerenciando permissões, etc). |
 
 ## 🎨 Frontend & UI Integration / Integração Frontend e UI
 
@@ -58,7 +56,6 @@ A curated list of Django packages grouped by category, with descriptions in Engl
 | [**Django Cotton**](https://github.com/wrabit/django-cotton) | Modern UI composition using HTML-like components in templates. | Composição de UI moderna usando componentes tipo HTML nos templates. |
 | [**Django Components**](https://github.com/django-components/django-components) | A way to create simple, reusable template components. | Uma maneira de criar componentes de template simples e reutilizáveis. |
 | [**Django Crispy Forms**](https://github.com/django-crispy-forms/django-crispy-forms) | The best way to have DRY Django forms. Controls rendering behavior. | A melhor maneira de ter formulários Django DRY. Controla o comportamento de renderização. |
-| [**Django Bootstrap3**](https://github.com/zostera/django-bootstrap3) | Bootstrap 3 integration for Django. | Integração do Bootstrap 3 para Django. |
 | [**Django Widget Tweaks**](https://github.com/jazzband/django-widget-tweaks) | Tweak the form field rendering in templates, not in python-level form definitions. | Ajuste a renderização de campos de formulário nos templates, não nas definições em Python. |
 | [**Django Unicorn**](https://github.com/adamghill/django-unicorn) | A reactive component framework (like Livewire) for Django. | Um framework de componentes reativos (como Livewire) para Django. |
 | [**Django Webpack Loader**](https://github.com/django-webpack/django-webpack-loader) | Transparently use Webpack with Django. | Use Webpack de forma transparente com Django. |
@@ -84,7 +81,6 @@ A curated list of Django packages grouped by category, with descriptions in Engl
 | :--- | :--- | :--- |
 | [**Django Extensions**](https://github.com/django-extensions/django-extensions/) | Global custom management extensions (shell_plus, graph_models, etc). | Extensões globais de gerenciamento (shell_plus, graph_models, etc). |
 | [**Django Health Check**](https://github.com/revsys/django-health-check) | Simple health checks for your Django applications (DB, Cache, Storage). | Verificações de saúde simples para suas aplicações Django (DB, Cache, Storage). |
-| [**Healthchecks.io**](https://github.com/healthchecks/healthchecks) | A Cron Monitoring Tool written in Django (Full Application). | Ferramenta de monitoramento de Cron escrita em Django (Aplicação Completa). |
 | [**Shynet**](https://github.com/milesmcc/shynet) | Modern, privacy-friendly, cookie-free web analytics (Full Application). | Web analytics moderno, amigável à privacidade e sem cookies (Aplicação Completa). |
 | [**Django Anymail**](https://github.com/anymail/django-anymail) | Email backends for Mailgun, SendGrid, Postmark, SES, and more. | Backends de email para Mailgun, SendGrid, Postmark, SES e mais. |
 | [**Django Prometheus**](https://github.com/django-commons/django-prometheus) | Export Django monitoring metrics for Prometheus. | Exporta métricas de monitoramento do Django para o Prometheus. |
@@ -117,5 +113,6 @@ A curated list of Django packages grouped by category, with descriptions in Engl
 | Package / Pacote | Description (EN) | Descrição (PT) |
 | :--- | :--- | :--- |
 | [**Django Celery Beat**](https://github.com/celery/django-celery-beat) | Database-backed Periodic Tasks (Scheduler for Celery). | Tarefas periódicas baseadas em banco de dados (Agendador para Celery). |
+| [**Celery**](https://github.com/celery/celery) | Distributed Task Queue to process vast amounts of messages. | Fila de tarefas distribuída para processar grandes quantidades de mensagens. |
 | [**Django Channels**](https://github.com/django/channels/) | Extends Django to handle WebSockets and async protocols. | Estende o Django para lidar com WebSockets e protocolos assíncronos. |
 | [**Pillow**](https://github.com/python-pillow/Pillow) | The friendly Python Imaging Library (Required for ImageField). | A biblioteca de imagem amigável do Python (Necessária para ImageField). |
