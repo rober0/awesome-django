@@ -89,6 +89,9 @@ A curated list of Django packages grouped by category, with descriptions in Engl
 | [**Django GUID**](https://github.com/snok/django-guid) | Middleware that attaches a unique correlation ID to every request/log. | Middleware que anexa um ID de correlação único a cada requisição/log. |
 | [**Django Analytical**](https://github.com/jazzband/django-analytical) | Integration for analytics services (Google Analytics, etc). | Integração para serviços de analytics (Google Analytics, etc). |
 | [**Django Gravatar**](https://github.com/twaddington/django-gravatar/) | Helper for displaying Gravatar images. | Auxiliar para exibir imagens do Gravatar. |
+| [**Django Debug Toolbar**](https://github.com/django-commons/django-debug-toolbar) | A configurable set of panels that display various debug information. | Um conjunto configurável de painéis que exibem várias informações de depuração. |
+| [**Django Silk**](https://github.com/jazzband/django-silk) | Live profiling and inspection tool for the Django framework. | Ferramenta de perfilamento e inspeção em tempo real para o framework Django. |
+| [**Django Zeal**](https://github.com/taobojlen/django-zeal) | Detects N+1 queries in your app and alerts you during development. | Detecta consultas N+1 em seu app e alerta você durante o desenvolvimento. |
 
 ## 🧪 Testing & QA / Testes e Garantia de Qualidade
 
@@ -112,5 +115,6 @@ A curated list of Django packages grouped by category, with descriptions in Engl
 | :--- | :--- | :--- |
 | [**Django Celery Beat**](https://github.com/celery/django-celery-beat) | Database-backed Periodic Tasks (Scheduler for Celery). | Tarefas periódicas baseadas em banco de dados (Agendador para Celery). |
 | [**Celery**](https://github.com/celery/celery) | Distributed Task Queue to process vast amounts of messages. | Fila de tarefas distribuída para processar grandes quantidades de mensagens. |
+| [**Django Q2**](https://github.com/django-q2/django-q2) | A native task queue, scheduler and worker application (Celery alternative). | Fila de tarefas nativa, agendador e aplicação worker (alternativa ao Celery). |
 | [**Django Channels**](https://github.com/django/channels/) | Extends Django to handle WebSockets and async protocols. | Estende o Django para lidar com WebSockets e protocolos assíncronos. |
 | [**Pillow**](https://github.com/python-pillow/Pillow) | The friendly Python Imaging Library (Required for ImageField). | A biblioteca de imagem amigável do Python (Necessária para ImageField). |
